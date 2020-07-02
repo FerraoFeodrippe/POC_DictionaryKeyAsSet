@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "POC_SetToRules/1.0.0": {
+        "dependencies": {
+          "ConfigReader": "1.0.0"
+        },
+        "runtime": {
+          "POC_SetToRules.dll": {}
+        }
+      },
+      "ConfigReader/1.0.0": {
+        "runtime": {
+          "ConfigReader.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "POC_SetToRules/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ConfigReader/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

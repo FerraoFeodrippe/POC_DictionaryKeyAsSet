@@ -1,0 +1,14 @@
+C:\Users\marce\source\repos\POC_SetToRules\bin\Debug\netcoreapp3.1\POC_SetToRules.exe
+C:\Users\marce\source\repos\POC_SetToRules\bin\Debug\netcoreapp3.1\POC_SetToRules.deps.json
+C:\Users\marce\source\repos\POC_SetToRules\bin\Debug\netcoreapp3.1\POC_SetToRules.runtimeconfig.json
+C:\Users\marce\source\repos\POC_SetToRules\bin\Debug\netcoreapp3.1\POC_SetToRules.runtimeconfig.dev.json
+C:\Users\marce\source\repos\POC_SetToRules\bin\Debug\netcoreapp3.1\POC_SetToRules.dll
+C:\Users\marce\source\repos\POC_SetToRules\bin\Debug\netcoreapp3.1\POC_SetToRules.pdb
+C:\Users\marce\source\repos\POC_SetToRules\bin\Debug\netcoreapp3.1\ConfigReader.dll
+C:\Users\marce\source\repos\POC_SetToRules\bin\Debug\netcoreapp3.1\ConfigReader.pdb
+C:\Users\marce\source\repos\POC_SetToRules\obj\Debug\netcoreapp3.1\POC_SetToRules.csprojAssemblyReference.cache
+C:\Users\marce\source\repos\POC_SetToRules\obj\Debug\netcoreapp3.1\POC_SetToRules.AssemblyInfoInputs.cache
+C:\Users\marce\source\repos\POC_SetToRules\obj\Debug\netcoreapp3.1\POC_SetToRules.AssemblyInfo.cs
+C:\Users\marce\source\repos\POC_SetToRules\obj\Debug\netcoreapp3.1\POC_SetToRules.csproj.CopyComplete
+C:\Users\marce\source\repos\POC_SetToRules\obj\Debug\netcoreapp3.1\POC_SetToRules.dll
+C:\Users\marce\source\repos\POC_SetToRules\obj\Debug\netcoreapp3.1\POC_SetToRules.pdb
